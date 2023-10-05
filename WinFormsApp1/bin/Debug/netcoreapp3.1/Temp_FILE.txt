@@ -1,0 +1,4 @@
+Merc price: 630000 id: 401 color: Black hp: 440 year: 2018 weight: 2100 maxSpeed: 300
+Merc price: 420000 id: 301 color: Black hp: 440 year: 2017 weight: 2100 maxSpeed: 200
+Merc price: 360000 id: 301 color: Black hp: 440 year: 2019 weight: 1800 maxSpeed: 200
+Merc price: 420000 id: 303 color: Grey hp: 440 year: 2016 weight: 2100 maxSpeed: 200
